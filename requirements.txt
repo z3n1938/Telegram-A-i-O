@@ -1,0 +1,4 @@
+telethon==1.36.0
+colorama==0.4.6
+requests==2.32.3
+cryptg  # Opsiyonel: Medya indirmeyi hızlandırır
